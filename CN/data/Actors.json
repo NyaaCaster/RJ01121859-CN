@@ -10,7 +10,7 @@ null,
 {"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":10,"battlerName":"","characterIndex":0,"characterName":"Actor4","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor9","traits":[],"initialLevel":1,"maxLevel":99,"name":"千代","nickname":"","note":"","profile":"プロフィール\nプロフィール"},
-{"id":11,"battlerName":"","characterIndex":4,"characterName":"Actor4","classId":11,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor9","traits":[],"initialLevel":1,"maxLevel":99,"name":"あかり","nickname":"","note":"","profile":"プロフィール\nプロフィール"},
-{"id":12,"battlerName":"","characterIndex":5,"characterName":"Actor4","classId":12,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor9","traits":[],"initialLevel":1,"maxLevel":99,"name":"八雲","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":4,"characterName":"Actor4","classId":11,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor9","traits":[],"initialLevel":1,"maxLevel":99,"name":"阿卡莉","nickname":"","note":"","profile":"プロフィール\nプロフィール"},
+{"id":12,"battlerName":"","characterIndex":5,"characterName":"Actor4","classId":12,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor9","traits":[],"initialLevel":1,"maxLevel":99,"name":"八云","nickname":"","note":"","profile":""},
 {"id":13,"battlerName":"","characterIndex":0,"characterName":"Actor5","classId":9,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor9","traits":[],"initialLevel":1,"maxLevel":99,"name":"千","nickname":"","note":"","profile":"プロフィール\nプロフィール"}
 ]
